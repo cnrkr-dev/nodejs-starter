@@ -1,0 +1,24 @@
+[2024-11-28 18:22:42] (info): Server running on http://localhost:3000
+[2024-11-28 18:26:02] (info): Server running on http://localhost:3000
+[2024-11-28 18:28:26] (info): Server running on http://localhost:3000
+[2024-11-28 18:30:51] (info): Server running on http://localhost:3000
+[2024-11-28 18:31:36] (info): Server running on http://localhost:3000
+[2024-11-28 18:36:50] (info): Server running on http://localhost:3000
+[2024-11-28 19:40:01] (info): Server running on http://localhost:3000
+[2024-11-29 01:35:04] (info): Server running on http://localhost:9095
+[2024-11-29 01:36:02] (error): Failed to initialize services
+[2024-11-29 01:37:13] (info): Redis is successfully connected and working.
+[2024-11-29 01:37:14] (error): MinIO connection error:
+[2024-11-29 01:37:14] (error): Failed to initialize services
+[2024-11-29 01:39:50] (info): Redis is successfully connected and working.
+[2024-11-29 01:39:50] (error): MinIO connection error:
+[2024-11-29 01:39:50] (error): Failed to initialize services
+[2024-11-29 01:40:48] (info): Redis is successfully connected and working.
+[2024-11-29 01:40:48] (info): Server running on http://localhost:9095
+[2024-11-29 01:47:42] (error): Failed to initialize services
+[2024-11-29 01:48:53] (error): Failed to initialize services
+[2024-11-29 01:52:01] (error): Failed to initialize services
+[2024-11-29 01:53:14] (error): Failed to initialize services
+[2024-11-29 01:55:21] (info): Redis is successfully connected and working.
+[2024-11-29 02:05:31] (info): Redis is successfully connected and working.
+[2024-11-29 02:05:31] (info): Server running on http://localhost:9095

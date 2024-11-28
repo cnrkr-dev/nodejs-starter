@@ -1,0 +1,10 @@
+[2024-11-29 01:55:21] (error): uncaughtException: listen EADDRINUSE: address already in use :::9095
+Error: listen EADDRINUSE: address already in use :::9095
+    at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+    at listenInCluster (node:net:1969:12)
+    at Server.listen (node:net:2074:7)
+    at Function.listen (/Users/canerkuru/coding/dev-web/nodejs/nodejs-starter/node_modules/express/lib/application.js:635:24)
+    at /Users/canerkuru/coding/dev-web/nodejs/nodejs-starter/src/server.ts:14:11
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/canerkuru/coding/dev-web/nodejs/nodejs-starter/src/server.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
